@@ -28,6 +28,7 @@
 <a href="https://reactjs.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
 </a>
+  </a>
 <a href="https://www.w3schools.com/cpp/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
 </a>
@@ -51,6 +52,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 <a href="https://vuejs.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs" alt="VueJs" width="40" height="40"/>
+  <a href="https://expressjs.com/">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" title="Expressjs" alt="Expressjs" width="40" height="40"/>
+</a>
+<a href="https://heroku.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>
+</a>
+  <a href="https://sequelize.org/">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>
+</a>
 </div>
 
 ### :fire: My Stats :
