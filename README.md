@@ -18,7 +18,7 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m currently studying Computer Engineering [@KTH](https://www.kth.se/en)
+- :telescope: I’m currently employed [@Experis](https://www.experis.se/en) as an Academy trainee
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
