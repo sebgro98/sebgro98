@@ -18,7 +18,7 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m currently employed [@Experis](https://www.experis.se/en) as an Academy trainee
+- :telescope: I’m currently employed [@Experis](https://www.experis.se/en) as an Fullstack Developer
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
