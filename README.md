@@ -62,6 +62,3 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>
 </a>
 </div>
-
-### :fire: My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sebgro98&theme=dark&hide_border=true)
